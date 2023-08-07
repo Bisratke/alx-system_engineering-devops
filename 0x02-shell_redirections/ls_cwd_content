@@ -1,0 +1,17 @@
+total 42
+drwxr-xr-x 1 Bisrateab.Gebrie 1049089     0 Aug  7 10:53 .
+drwxr-xr-x 1 Bisrateab.Gebrie 1049089     0 Aug  7 09:33 ..
+-rw-r--r-- 1 Bisrateab.Gebrie 1049089 12288 Aug  7 10:17 .1-confused_smiley.swp
+-rwxr-xr-x 1 Bisrateab.Gebrie 1049089    32 Aug  7 09:44 0-hello_world
+-rwxr-xr-x 1 Bisrateab.Gebrie 1049089    28 Aug  7 10:18 1-confused_smiley
+-rwxr-xr-x 1 Bisrateab.Gebrie 1049089    28 Aug  7 10:23 2-hellofile
+-rwxr-xr-x 1 Bisrateab.Gebrie 1049089    39 Aug  7 10:26 3-twofiles
+-rwxr-xr-x 1 Bisrateab.Gebrie 1049089    29 Aug  7 10:32 4-lastlines
+-rwxr-xr-x 1 Bisrateab.Gebrie 1049089    29 Aug  7 10:34 5-firstlines
+-rwxr-xr-x 1 Bisrateab.Gebrie 1049089    50 Aug  7 10:36 6-third_line
+-rwxr-xr-x 1 Bisrateab.Gebrie 1049089    73 Aug  7 10:50 7-file
+-rwxr-xr-x 1 Bisrateab.Gebrie 1049089    37 Aug  7 10:52 8-cwd_state
+-rw-r--r-- 1 Bisrateab.Gebrie 1049089    24 Aug  7 09:33 README.md
+drwxr-xr-x 1 Bisrateab.Gebrie 1049089     0 Aug  7 10:04 alx-system_engineering-devops
+-rw-r--r-- 1 Bisrateab.Gebrie 1049089   799 Aug  7 10:39 iacta
+-rw-r--r-- 1 Bisrateab.Gebrie 1049089     0 Aug  7 10:53 ls_cwd_content
